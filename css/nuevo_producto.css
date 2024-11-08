@@ -1,0 +1,14 @@
+.formulario {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    margin: 4em auto;
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.form-label {
+    margin-bottom: 0em;
+    margin-top: 1em;
+}

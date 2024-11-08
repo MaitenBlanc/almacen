@@ -1,0 +1,10 @@
+.navbar-brand {
+    margin-left: 3em;
+}
+
+ul {
+    width: 100%;
+    justify-content: end;
+    gap: 3em;
+    padding-right: 4em;
+}

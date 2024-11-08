@@ -1,0 +1,17 @@
+.carta {
+    width: 60%;
+    margin: 10em auto;
+    box-shadow: rgba(178, 147, 203, 0.5) 0px 4px 12px;
+    border-radius: 1em;
+
+    text-align: center;
+    padding: 5em;
+}
+
+.bi {
+    font-size: 1.2em;
+}
+
+button {
+    margin-top: 2em;
+}

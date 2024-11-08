@@ -1,0 +1,17 @@
+.title {
+    padding: 1em;
+    margin-left: 1em;
+}
+
+.tabla {
+    width: 80%;  
+    margin: 0 auto;
+}
+
+.table {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+td, th {
+    text-align: center;
+}
